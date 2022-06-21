@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and Data Science
 - 🌱 I’m currently learning Python, C++, Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : *instagram : ridho.lailatul_
+- 📫 How to reach me : - instagram : ridho.lailatul_
 
 <!---
 mxckaito/mxckaito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
